@@ -16,7 +16,7 @@
     "@aws-sdk/client-secrets-manager": "^3.414.0",
     "@types/aws-lambda": "^8.10.121",
     "@types/node": "^20.6.2",
-    "aws-amplify": "^5.3.10",
+    "aws-amplify": "^5.3.12",
     "aws-cdk": "^2.96.2",
     "aws-cdk-lib": "^2.96.2",
     "aws-iot-device-sdk": "^2.2.12",
